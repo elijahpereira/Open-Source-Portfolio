@@ -24,6 +24,7 @@ header {
 
 .logo {
     cursor: pointer;
+    scale: 0.8;
 }
 
 .nav__links {
