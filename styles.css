@@ -17,14 +17,13 @@ li, a, button {
 
 header {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    flex: space-between;
     padding: 30px 10%;
 }
 
 .logo {
     cursor: pointer;
-    scale: 0.8;
+    scale: 0.3;
 }
 
 .nav__links {
